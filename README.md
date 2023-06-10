@@ -15,8 +15,8 @@ https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
 The code for this project was executed on Google Colab. Google Colab provides a Jupyter notebook environment that allows for seamless execution and collaboration on Python code. The notebook contains the necessary code snippets and explanations to perform the EDA on the HR Analytics dataset.
 
 **Contents**  
-'notebook.ipynb': The Jupyter notebook file that includes the code, explanations, and visualizations for the EDA process.  
-'README.md': This readme file that provides an overview of the project and its objectives.
+[EDA_Project.ipynb](EDA_Project.ipynb): The Jupyter notebook file that includes the code, explanations, and visualizations for the EDA process.  
+README.md: This readme file that provides an overview of the project and its objectives.
 
 **Dependencies**  
 The following dependencies are required to run the code:  
