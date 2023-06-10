@@ -16,7 +16,7 @@ The code for this project was executed on Google Colab. Google Colab provides a 
 
 **Contents**  
 [EDA_Project.ipynb](EDA_Project.ipynb): The Jupyter notebook file that includes the code, explanations, and visualizations for the EDA process.  
-README.md: This readme file that provides an overview of the project and its objectives.
+[README.md](README.md): This readme file that provides an overview of the project and its objectives.
 
 **Dependencies**  
 The following dependencies are required to run the code:  
